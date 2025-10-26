@@ -19,7 +19,7 @@ class FailedTaskIncrementalUpdater:
         self.config_path = config_path
         self.config_data = {}
         self.quark_client = SimpleQuarkClient()
-        self.api_token = "87e7eb745cb0d5d8"
+        self.api_token = "xxxxxxxxxxxxxxxx"
         self.base_url = "http://192.168.2.99:15005"
 
     def load_config(self):
